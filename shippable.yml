@@ -10,7 +10,7 @@ node_js:
 build:
   pre_ci_boot:
     image_name: drydock/u16nodall
-    image_tag: master
+    image_tag: 6.6.4
     pull: true
     
   ci:
