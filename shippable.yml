@@ -21,7 +21,6 @@ build:
    - casperjs --version
    - bower --version
    - phantomjs --version
-   - java -jar /srv/selenium-server-standalone-3.13.0.jar --version
    - nvm list
    - npm --version
 
