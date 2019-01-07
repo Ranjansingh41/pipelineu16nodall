@@ -23,5 +23,5 @@ build:
    - phantomjs --version
    - nvm list
    - npm --version
-   - java -jar /usr/local/selenium/selenium-server-standalone-3.141.5.jar --version
+   - java -jar /usr/local/selenium/selenium-server-standalone-3.141.59.jar --version
 
